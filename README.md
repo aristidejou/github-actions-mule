@@ -1,4 +1,4 @@
-# GitHub actions CI/CD pipeline for MuleSoft
+# GitHub actions CI/CD pipeline for MuleSoft jou
 
 [![Build and Deploy to Sandbox](https://github.com/alexandramartinez/github-actions/actions/workflows/build.yml/badge.svg)](https://github.com/alexandramartinez/github-actions/actions/workflows/build.yml)
 
